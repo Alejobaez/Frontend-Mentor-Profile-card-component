@@ -5,7 +5,7 @@
 ### Links
 
 - Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://alejobaez.github.io/Frontend-Mentor-Profile-card-component/)
 
 ## My process
 
