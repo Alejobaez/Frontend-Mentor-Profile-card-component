@@ -4,7 +4,7 @@
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/profile-card-component-kQoya0J5N)
 - Live Site URL: [live site](https://alejobaez.github.io/Frontend-Mentor-Profile-card-component/)
 
 ## My process
@@ -19,4 +19,4 @@
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alejobaez](https://www.frontendmentor.io/profile/Alejobaez)
